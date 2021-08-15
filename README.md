@@ -5,4 +5,4 @@
 * CSS
 
 ## Result
-![ Result ](result.png)
+![](result.png)
